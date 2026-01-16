@@ -1,4 +1,4 @@
-# -player-LTV-and-retention-analysis
+# player LTV and retention analysis
 Why this Matters?
 Used by CRM, Marketing, and Finance to decide:
 	•	Who gets bonuses
